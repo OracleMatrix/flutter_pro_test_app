@@ -46,8 +46,7 @@ pro_test_app/
 │   │       ├── bindings/
 │   │       ├── controllers/
 │   │       └── views/
-│   ├── routes/
-│   └── widgets/
+│   ├── routes/│
 ├── main.dart
 
 ```
@@ -121,6 +120,6 @@ This project is licensed under the MIT ``License``
 ## Contact
 For any questions or feedback, feel free to reach out:
 
-- Email: ehsanmohammadipoor@gmail.com
+- Email: ehsanmohamadipoor@gmail.com
 
 - GitHub: OracleMatrix
